@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://fb.com/profile.php?id=100041189181885";
+            window.location = "https://fb.com/100069525611271";
           },
         });
       }
